@@ -14,7 +14,7 @@ Currently a Full Stack Bootcamper at Masai Schools
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 💻 Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
@@ -23,6 +23,8 @@ Currently a Full Stack Bootcamper at Masai Schools
 <a href="https://twitter.com/kdhanasekar166" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" /></a>
   <a href="mailto:kdhanasekar166@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
 <a href="https://medium.com/@kdhanasekar166"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium"><a>
+  </p>
+  <a href="https://www.instagram.com/sathish__dhana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"><a>
   </p>
 
 ---
