@@ -17,26 +17,25 @@ Currently a Full Stack Bootcamper at Masai Schools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
+### :heavy_minus_sign: Interested on my top projects?
+
+<p>
+<a href="https://github.com/sathish-dhana/Bath-Bodyworks" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bath-Bodyworks&color=000000&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
+</p>
+
+---
+
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 <p align="center">
 <a href="https://www.linkedin.com/in/kdhanasekar166/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
 <a href="https://twitter.com/kdhanasekar166" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" /></a>
   <a href="mailto:kdhanasekar166@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
 <a href="https://medium.com/@kdhanasekar166"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium"><a>
-  </p>
   <a href="https://www.instagram.com/sathish__dhana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"><a>
-  </p>
-
----
-
-### :heavy_minus_sign: Interested on my top projects?
-
-<p>
-<a href="https://github.com/taherahmed14/nordstrom-clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nordstrom&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="nordstrom"/></a>
-<a href="https://github.com/taherahmed14/Groww_Full-Stack_Project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Groww&color=00d09c&logo=GoldenLine&logoColor=FFFFFF&label=" alt="Groww" /></a>
-<a href="https://github.com/taherahmed14/adidas-Front-end-project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p>
 
+---
 
 <!--<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />-->
 
