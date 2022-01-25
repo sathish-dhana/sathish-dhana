@@ -1,30 +1,39 @@
-<h1>Hey you, I'm Taher</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ Dhanasekar! </h1>
 
-A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
+Currently a Full Stack Bootcamper at Masai Schools
 
-![](https://komarev.com/ghpvc/?username=your-github-taherahmed14&style=flat-square&label=Profile+Views)
-<img src="https://badges.pufler.dev/Commits/yearly/taherahmed14" />
+---
+## 👨🏻‍💻 Tech Stack
+### ⚡ Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
-### :heavy_minus_sign: Interested on my skills?
-<p>
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
-<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
-<a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/></a>
-<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /></a>
-<a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/></a>
-<a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
-<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" /></a>
-<a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /></a>
-<a><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/></a>
-<a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
-<a><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/></a>
-<a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/></a>
-<a><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="chartjs"/></a>
+### 🚀 Libraries, Frameworks & Preprocessors
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
- 
+### 💻 Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+<p align="center">
+<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
+<a href="https://twitter.com/AntonioRiccell1" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" /></a>
+    <a href="https://antonioriccelli.com/">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  <a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
+      <a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
+      <a href="https://soundcloud.com/antonioriccelli" title="Soundcloud"> <img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud logo"> </a><br>
+<a href="https://www.codewars.com/users/AntonioRiccelli"><img src="https://www.codewars.com/users/AntonioRiccelli/badges/large" title="Codewars rank"><a>
+  </p>
 
-</p>
+---
 
 ### :heavy_minus_sign: Interested on my top projects?
 
@@ -33,18 +42,6 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 <a href="https://github.com/taherahmed14/Groww_Full-Stack_Project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Groww&color=00d09c&logo=GoldenLine&logoColor=FFFFFF&label=" alt="Groww" /></a>
 <a href="https://github.com/taherahmed14/adidas-Front-end-project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p>
-
-### :heavy_minus_sign: Where to find me?
-<p> <a href="https://www.linkedin.com/in/taher-ahmed-bb96b6123/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@taherahmed.sj.95" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-### :heavy_minus_sign: My Github stats
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherahmed14&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=taherahmed14&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taherahmed14&theme=dracula">
-</p>
-
 
 
 <!--<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />-->
