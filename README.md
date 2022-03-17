@@ -1,6 +1,6 @@
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ Dhanasekar! </h1>
 
-## :sassy_man:  About me
+# :sassy_man:  About me
 Full Stack developer who loves to code and explore things on the internet, with the passion of learning and sharing knowledge. Strong in design and integration with intuitive problem-solving skills & ability to translate business requirements into technical solutions.
 
 ---
