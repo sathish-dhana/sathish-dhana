@@ -12,7 +12,7 @@ Currently a Full Stack Bootcamper at Masai Schools
 
 ### 🚀 Libraries & Frameworks
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-<a href="https://github.com/sathish-dhana/Bath-Bodyworks" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Collection&color=000000&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
+<a href="https://github.com/sathish-dhana/Bath-Bodyworks" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java Collection&color=#0E6BAC&logo=Collection&logoColor=FFFFFF&label=" alt="Collection"/></a>
 
 ### 💻 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
