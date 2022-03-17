@@ -24,7 +24,8 @@ Currently a Full Stack Bootcamper at Masai Schools
 ### :heavy_minus_sign: Interested on my top projects?
 
 <p>
-<a href="https://github.com/sathish-dhana/Bath-Bodyworks" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bath-Bodyworks&color=000000&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
+<a href="https://github.com/sathish-dhana/Bath-Bodyworks" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bath-Bodyworks&color=E30184&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
+  <a href="https://github.com/sathish-dhana/Bath-Bodyworks" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Snapdeal&color=E30184&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
 </p>
 
 ---
