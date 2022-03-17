@@ -13,6 +13,8 @@ Currently a Full Stack Bootcamper at Masai Schools
 ### 🚀 Libraries & Frameworks
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java-Collections&color=3C79B5&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=B2A573&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/>
+
 
 ### 💻 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
