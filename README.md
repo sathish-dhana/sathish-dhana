@@ -1,6 +1,6 @@
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ Dhanasekar! </h1>
 
-Currently a Full Stack Bootcamper at Masai Schools
+Full Stack developer who loves to code and explore things on the internet, with the passion of learning and sharing knowledge.
 
 ---
 ## 👨🏻‍💻 Tech Stack
