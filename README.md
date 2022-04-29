@@ -46,20 +46,11 @@ JAVA Back-end Developer who loves to code and explore things on the internet, wi
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/sathish-02/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sathish-02&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish-02&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sathish-02" height="192px"/>
-  <br/>
-  
-  </p>
-
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sathish-02"><img alt="sathish-02's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sathish-02&custom_title=sathish-02's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sathish-02"><img alt="sathish-02's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sathish-dhana&custom_title=sathish-dhana's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -67,7 +58,7 @@ JAVA Back-end Developer who loves to code and explore things on the internet, wi
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathish-02&layout=compact&theme=algolia" alt="sathish-02" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathish-dhana&layout=compact&theme=algolia" alt="sathish-dhana" /></a> </p>
 
 
 
