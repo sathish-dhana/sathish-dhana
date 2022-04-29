@@ -12,12 +12,11 @@ JAVA Back-end Developer who loves to code and explore things on the internet, wi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🚀 Libraries & Frameworks
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java-Collections&color=3C79B5&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java-Collections&color=3C79B5&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=B2A573&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt=""/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring_Boot&color=B2A573&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt=""/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&JSP&color=B2A573&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt=""/>
-
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
 
 ### 💻 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
