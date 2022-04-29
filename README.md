@@ -42,15 +42,9 @@ JAVA Back-end Developer who loves to code and explore things on the internet, wi
     
     ## 📊 Github Stats
 
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-----
-
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sathish-02"><img alt="sathish-02's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sathish-dhana&custom_title=sathish-dhana's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sathish-dhana"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sathish-dhana&custom_title=sathish-dhana's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
