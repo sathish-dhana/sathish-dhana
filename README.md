@@ -40,9 +40,8 @@ JAVA Back-end Developer who loves to code and explore things on the internet, wi
   <a href="https://www.instagram.com/sathish__dhana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"><a>
 </p>
     
-    ## 📊 Github Stats
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  ## :trophy: Recent GitHub Activity
   <br/>
    <a href="https://github.com/sathish-dhana"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sathish-dhana&custom_title=sathish-dhana's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
