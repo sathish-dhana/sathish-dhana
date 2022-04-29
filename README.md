@@ -12,9 +12,11 @@ JAVA Back-end Developer who loves to code and explore things on the internet, wi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🚀 Libraries & Frameworks
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java-Collections&color=3C79B5&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=B2A573&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java-Collections&color=3C79B5&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=B2A573&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt=""/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring_Boot&color=B2A573&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt=""/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&JSP&color=B2A573&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt=""/>
 
 
 ### 💻 Databases
